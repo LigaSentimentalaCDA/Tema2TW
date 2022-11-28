@@ -1,0 +1,171 @@
+.logoupd {
+    display: flex;
+    background-image: url("fundal1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid red;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.logoupd img {
+    width: 150px;
+    height: 100px;
+}
+
+.logoupd ul li {
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.logoupd li a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-shadow: 5cm;
+    font-size: 15px;
+}
+
+.logoupd button {
+    background-color: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+
+.informatii header {
+    margin-bottom: 100px;
+    margin-left: 600px;
+    font-size: 50px;
+    color: white;
+}
+
+.informatii p {
+    margin-left: 600px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.informatii span {
+    margin-left: 30px;
+    color: white;
+}
+
+.background_info {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.502)), url("copiisinistrati2.jpg");
+}
+
+.logoupd button:hover {
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.informatii {
+    margin-right: 300px;
+}
+
+.continut {
+    width: 1455px;
+    height: 650px;
+    margin-right: 800px;
+    margin-top: 25px;
+    display: inline-block;
+    justify-content: space-between;
+    background-image: url("garfield.jpg");
+    background-size: cover;
+}
+
+.continut1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.continut h1 {
+    font-size: 30px;
+}
+
+.background_info {
+    border: solid black;
+    margin-left: 0px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    height: 400px;
+}
+
+.informatii {
+    margin-bottom: 150px;
+}
+
+.miscalogo button:hover {
+    cursor: pointer;
+    margin-left: 10px;
+    transition: 0.1s;
+}
+
+.continut2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p1 {
+    width: 200px;
+    height: 150px;
+}
+
+.p2 {
+    width: 200px;
+    height: 50px;
+}
+
+.continut3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagine1 img {
+    width: 300px;
+    height: 400px;
+}
+
+.imagine2 img {
+    width: 200px;
+    height: 400px;
+}
+
+.continut3 .imagine2 {
+    margin-left: 20px;
+}
+
+.bordura {
+    border: solid red;
+    margin-top: 100px;
+    width: 2000px;
+    height: 70px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    background-image: url("fundal3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iconite {
+    display: flex;
+}
+
+.icoana2 a {
+    color: red;
+    margin-left: 50px;
+}
+
+.icoana3 a {
+    color: aqua;
+    margin-left: 50px;
+}
